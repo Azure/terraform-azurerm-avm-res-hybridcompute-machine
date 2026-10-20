@@ -1,3 +1,3 @@
-# terraform-azurerm-avm-template
+# Hybrid Compute Machine
 
-This is a template repo for Terraform Azure Verified Modules.
+AVM Resource Module for Hybrid Compute Machine
